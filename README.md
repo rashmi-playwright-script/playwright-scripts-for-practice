@@ -11,7 +11,7 @@ I can write Playwright automation scripts (`.py`) for your website or workflow.
 
 **To request:**
 
-1. Go to the [Discussions](./discussions) tab of this repo  
+1. Go to the [Discussions](./Discussion) tab of this repo  
 2. Open the pinned topic: **"Request a Free Playwright (Python) Automation Script"**
 3. Comment with:
    - Website URL (must be public or a demo site)
